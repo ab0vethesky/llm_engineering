@@ -19,7 +19,7 @@ langchain-text-splitters
 langchain-openai
 langchain-chroma
 langchain-community
-datasets==3.6.0
+datasets
 matplotlib
 google-generativeai
 anthropic
